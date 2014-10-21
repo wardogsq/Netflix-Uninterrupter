@@ -9,6 +9,6 @@ I couldn't find any solution to prevent netflix from stopping and making me clic
 
 INSTALL
 ---------------------------
-CHROME:  Just drag the file into the extension tab in chrome and it will auto install.(also compatible with TamperMonkey extension)
+CHROME:  Just drag the file into the extension tab in chrome and it will auto install.(also compatible with <a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en">TamperMonkey</a> extension)
 
 FIREFOX:  (Untested) Should be compatible with Greasemonkey extension, if not let me know in the comments and I'll make it compatible.
