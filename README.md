@@ -1,4 +1,7 @@
-<h1 style="color:red;" color="red" >Netflix-Uninterrupter</h1>
+```html
+   // code for coloring
+<h1>Netflix-Uninterrupter</h1>
+```
 Prevent Netflix from Auto-pausing! Watch your shows uninterrupted the way they were meant to be.
 I couldn't find any solution to prevent netflix from stopping and making me click buttons every so often so I created this small script to do it.
 
