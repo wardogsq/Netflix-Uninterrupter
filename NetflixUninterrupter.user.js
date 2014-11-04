@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Netflix Uninterrupter
 // @namespace    wardogsq@hotmail.com
-// @version      0.3
+// @version      0.4
 // @description  Watch uninterrupted netflix!
 // @author       Luke Seraphin
 // @match        http://www.netflix.com/WiPlayer*
@@ -9,7 +9,7 @@
 // ==/UserScript==
 
 setInterval(function(){
-if(document.getElementsByClassName('player-autoplay-interrupter')[0].style.display!="none"){
+if(document.getElementsByClassName('player-autoplay-interrupter')[0]!=undefined){
 var video = document.getElementsByTagName('video')[0];
 video.play();
 var interrupter = document.getElementsByClassName('player-autoplay-interrupter')[0];
